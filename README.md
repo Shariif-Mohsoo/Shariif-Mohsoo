@@ -93,9 +93,8 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=shariif-mohsoo&show_icons=true&theme=radical" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=shariif-mohsoo&theme=radical" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shariif-mohsoo&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shariif-mohsoo&layout=compact&theme=radical&langs_count=8" alt="Top Languages" />
 </p>
-
 ---
 
 ### 🤝 Connect with Me:
