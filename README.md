@@ -13,15 +13,16 @@
 
 ---
 
+
 ### 🌟 About Me
 - 🌱 I’m currently learning **Node.js, Express.js, MongoDB**
 - 👨‍💻 I have built several simple demo projects:  
-  - [Project 1](https://sage-pastelito-aa7190.netlify.app/)  
-  - [Project 2](https://gilded-pegasus-a42f12.netlify.app/)  
-  - [Project 3](https://remarkable-mousse-358d8e.netlify.app/)  
-  - [Project 4](https://eclectic-douhua-9a1787.netlify.app/)  
-  - [Project 5](https://lustrous-puppy-b57b60.netlify.app/)  
-  - [Project 6](https://snazzy-cactus-c597da.netlify.app/)  
+  - <a href="https://eclectic-douhua-9a1787.netlify.app/" target="_blank">Project 1</a>  
+  - <a href="https://lustrous-puppy-b57b60.netlify.app/" target="_blank">Project 2</a>  
+  - <a href="https://snazzy-cactus-c597da.netlify.app/" target="_blank">Project 3</a>  
+  - <a href="https://remarkable-mousse-358d8e.netlify.app/" target="_blank">Project 4</a>  
+  - <a href="https://gilded-pegasus-a42f12.netlify.app/" target="_blank">Project 5</a>  
+  - <a href="https://sage-pastelito-aa7190.netlify.app/" target="_blank">Project 6</a>  
 - 💬 Ask me about **HTML, CSS, SCSS, Responsive Layouts, React, JavaScript, Node.js, Express.js, PostgreSQL, SQL, C++.**
 - 📫 Reach me at **mr8781256@gmail.com**
 - ⚡ Fun fact: **My favorite part of JavaScript is how undefined and null always keep me on my toes! 😅**
