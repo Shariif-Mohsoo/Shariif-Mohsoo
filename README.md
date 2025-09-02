@@ -16,9 +16,14 @@
 
 ### 🌟 About Me
 - 🌱 I’m currently learning **C# (.NET), OS (Linux), and More**
-- 👨‍💻 I have built several simple demo projects related to web:  
- | [Project 1](https://eclectic-douhua-9a1787.netlify.app/) | [Project 2](https://brilliant-semifreddo-820b06.netlify.app/) | | [Project 3](https://lustrous-puppy-b57b60.netlify.app/)  | [Project 4](https://splendorous-rugelach-43b30e.netlify.app/) |  | [Project 5](https://snazzy-cactus-c597da.netlify.app/) | [Project 6](https://sparkly-bonbon-7e571e.netlify.app/) | | [Project 7](https://remarkable-mousse-358d8e.netlify.app/) | [Project 8](https://gilded-pegasus-a42f12.netlify.app/) | [Project 9](https://sage-pastelito-aa7190.netlify.app/) | [Project 10](https://dancing-brioche-0385c1.netlify.app/) | 
-[Project 11](https://dynamic-kangaroo-7a12df.netlify.app/) |
+- 👨‍💻 I have built several demo projects grouped by tech stack:
+
+| HTML, CSS & SCSS | HTML, CSS & JS | React.js |
+|------------------|----------------|----------|
+| 1. [Project 1](https://eclectic-douhua-9a1787.netlify.app/) | 1. [Project 1](https://sparkly-bonbon-7e571e.netlify.app/) | 1. [Project 1](https://brilliant-semifreddo-820b06.netlify.app/) |
+| 2. [Project 2](https://snazzy-cactus-c597da.netlify.app/)   | 2. [Project 2](https://splendorous-rugelach-43b30e.netlify.app/) | 2. [Project 2](https://teal-monstera-39face.netlify.app/) |
+| 3. [Project 3](https://remarkable-mousse-358d8e.netlify.app/) | 3. [Project 3](https://gilded-pegasus-a42f12.netlify.app/) | 3. [Project 3](https://dynamic-kangaroo-7a12df.netlify.app/) |
+| 4. [Project 4](https://lustrous-puppy-b57b60.netlify.app/)  | 4. [Project 4](https://dancing-brioche-0385c1.netlify.app/) |          |
 
 
 - 💬 Ask me about **HTML, CSS, SCSS, Responsive Layouts, React, JavaScript, Node.js, Express.js, PostgreSQL, SQL, C++.**
