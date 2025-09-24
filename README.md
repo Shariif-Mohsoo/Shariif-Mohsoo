@@ -15,7 +15,7 @@
 
 
 ### 🌟 About Me
-- 🌱 I’m currently learning **C# (.NET), OS (Linux), and More**
+- 🌱 I’m currently learning **AI, Mobile App Dev, and More**
 - 👨‍💻 I have built several demo projects grouped by tech stack:
 
 | HTML, CSS & SCSS | HTML, CSS & JS | React.js |
@@ -74,7 +74,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> 
   </a> 
   <a href="https://expressjs.com" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> 
+    Express Js
   </a> 
   <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> 
@@ -111,9 +111,6 @@
 <p align="center">
   <a href="https://linkedin.com/in/muhammad-mohsin-63a427276" target="_blank" >
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="30" height="30" />
-  </a>
-  <a href="https://codepen.io/shariif-rajpoot" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/codepen/codepen-original.svg" alt="CodePen" width="30" height="30" />
   </a>
   <a href="https://fb.com/mohsin.muhammad.3367" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/facebook/facebook-original.svg" alt="Facebook" width="30" height="30" />
