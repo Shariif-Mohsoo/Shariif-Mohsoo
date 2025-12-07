@@ -26,7 +26,7 @@
 | 4. [Project 4](https://lustrous-puppy-b57b60.netlify.app/)  | 4. [Project 4](https://dancing-brioche-0385c1.netlify.app/) |          |
 
 
-- 💬 Ask me about **HTML, CSS, SCSS, Responsive Layouts, React, JavaScript, Node.js, Express.js, PostgreSQL, SQL, C++.**
+- 💬 Ask me about **HTML, CSS, SCSS, Responsive Layouts, Javascript, React.js, Node.js, Express.js, SQL, PostgreSQL, C++.**
 - 📫 Reach me at **mr8781256@gmail.com**
 - ⚡ Fun fact: **My favorite part of JavaScript is how undefined and null always keep me on my toes! 😅**
 
@@ -100,11 +100,16 @@
 ---
 
 ### 📊 GitHub Stats:
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shariif-mohsoo&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shariif-mohsoo&theme=radical" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shariif-mohsoo&layout=compact&theme=radical&langs_count=8" alt="Top Languages" />
-</p>
+<div align="center">
+
+[![GitHub Contribution Chart](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Shariif-Mohsoo&theme=radical)](https://github.com/Shariif-Mohsoo)
+
+[![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Shariif-Mohsoo&theme=radical)](https://github.com/Shariif-Mohsoo)
+[![Most Committed Language](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Shariif-Mohsoo&theme=radical)](https://github.com/Shariif-Mohsoo)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Shariif-Mohsoo&theme=radical&hide_border=true)](https://github.com/Shariif-Mohsoo)
+
+</div>
 ---
 
 ### 🤝 Connect with Me:
