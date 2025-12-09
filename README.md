@@ -22,8 +22,8 @@
 |------------------|----------------|----------|
 | 1. [Project 1](https://eclectic-douhua-9a1787.netlify.app/) | 1. [Project 1](https://sparkly-bonbon-7e571e.netlify.app/) | 1. [Project 1](https://brilliant-semifreddo-820b06.netlify.app/) |
 | 2. [Project 2](https://snazzy-cactus-c597da.netlify.app/)   | 2. [Project 2](https://splendorous-rugelach-43b30e.netlify.app/) | 2. [Project 2](https://teal-monstera-39face.netlify.app/) |
-| 3. [Project 3](https://remarkable-mousse-358d8e.netlify.app/) | 3. [Project 3](https://gilded-pegasus-a42f12.netlify.app/) | 3. [Project 3](https://dynamic-kangaroo-7a12df.netlify.app/) |
-| 4. [Project 4](https://lustrous-puppy-b57b60.netlify.app/)  | 4. [Project 4](https://dancing-brioche-0385c1.netlify.app/) |          |
+| 3. [Project 3](https://lustrous-puppy-b57b60.netlify.app/)  | 3. [Project 3](https://gilded-pegasus-a42f12.netlify.app/) | 3. [Project 3](https://dynamic-kangaroo-7a12df.netlify.app/) |
+                                                                        
 
 
 - 💬 Ask me about **HTML, CSS, SCSS, Responsive Layouts, Javascript, React.js, Node.js, Express.js, SQL, PostgreSQL, C++.**
@@ -106,8 +106,6 @@
 
 [![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Shariif-Mohsoo&theme=radical)](https://github.com/Shariif-Mohsoo)
 [![Most Committed Language](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Shariif-Mohsoo&theme=radical)](https://github.com/Shariif-Mohsoo)
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Shariif-Mohsoo&theme=radical&hide_border=true)](https://github.com/Shariif-Mohsoo)
 
 </div>
 ---
