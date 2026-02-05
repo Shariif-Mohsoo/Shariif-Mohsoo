@@ -1,5 +1,6 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=000000&height=200&section=header&text=M.%20Mohsin&fontSize=70&fontColor=ffffff&animation=fadeIn" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:2c0245,100:000000&height=200&section=header&text=M.%20Mohsin&fontSize=70&fontColor=ffffff&animation=fadeIn" width="100%" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A97CF8&center=true&vCenter=true&width=435&lines=Transforming+Ideas+into+Code;Specializing+in+MERN+Stack;Exploring+AI+%26+Mobile+Dev" />
 
   ### 🚀 MERN-Stack Developer | React Native & AI Enthusiast
   
@@ -59,9 +60,14 @@
   <img src="https://github-readme-streak-stats-eight.vercel.app/?user=Shariif-Mohsoo&theme=tokyonight&hide_border=true" width="100%" alt="GitHub Streak" />
 </p>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Shariif-Mohsoo/Shariif-Mohsoo/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</p>
+<div align="center">
+
+[![GitHub Contribution Chart](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Shariif-Mohsoo&theme=radical)](https://github.com/Shariif-Mohsoo)
+
+[![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Shariif-Mohsoo&theme=radical)](https://github.com/Shariif-Mohsoo)
+[![Most Committed Language](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Shariif-Mohsoo&theme=radical)](https://github.com/Shariif-Mohsoo)
+
+</div>
 ---
 
 ### 🤝 Let's Connect
