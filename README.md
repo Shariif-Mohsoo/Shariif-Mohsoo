@@ -59,7 +59,9 @@
   <img src="https://github-readme-streak-stats-eight.vercel.app/?user=Shariif-Mohsoo&theme=tokyonight&hide_border=true" width="100%" alt="GitHub Streak" />
 </p>
 
-
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Shariif-Mohsoo/Shariif-Mohsoo/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</p>
 ---
 
 ### 🤝 Let's Connect
