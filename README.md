@@ -68,6 +68,9 @@
 [![Most Committed Language](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Shariif-Mohsoo&theme=radical)](https://github.com/Shariif-Mohsoo)
 
 </div>
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Shariif-Mohsoo&label=PROFILE+VIEWS&color=A97CF8&style=flat-square" alt="Profile Views" />
+</div>
 ---
 
 ### 🤝 Let's Connect
