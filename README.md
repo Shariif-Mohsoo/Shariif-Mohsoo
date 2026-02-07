@@ -66,10 +66,13 @@
 
 [![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Shariif-Mohsoo&theme=radical)](https://github.com/Shariif-Mohsoo)
 [![Most Committed Language](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Shariif-Mohsoo&theme=radical)](https://github.com/Shariif-Mohsoo)
-
 </div>
+
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Shariif-Mohsoo&label=PROFILE+VIEWS&color=A97CF8&style=flat-square" alt="Profile Views" />
+  <img src="https://img.shields.io/github/last-commit/Shariif-Mohsoo/Shariif-Mohsoo?style=flat-square&logo=github&color=A97CF8&label=LAST+UPDATED" alt="Last Updated" />
+  <!-- <img src="https://komarev.com/ghpvc/?username=Shariif-Mohsoo&label=PROFILE+VIEWS&color=A97CF8&style=flat-square" alt="Profile Views" /> -->
+  <img src="https://count.getloli.com/get/@Shariif-Mohsoo?theme=rule_34" alt="Shariif-Mohsoo" />
+  <img src="https://img.shields.io/badge/Maintained%3F-Yes-success?style=flat-square&logo=github" alt="Maintained" />
 </div>
 ---
 
