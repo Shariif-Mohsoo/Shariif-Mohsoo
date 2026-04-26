@@ -37,6 +37,11 @@
 ---
 
 ### 📂 Showcase Projects
+<div align="center">  
+Check out my live portfolio here:
+
+👉 [Visit Portfolio](https://superb-dasik-5e8567.netlify.app/)
+</div>
 
 <div align="center">
 
