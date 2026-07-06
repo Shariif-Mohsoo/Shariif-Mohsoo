@@ -162,19 +162,26 @@ https://github.com/Shariif-Mohsoo/react-native-projects/tree/main/mealsToGO
 
 > **Note:** If these cards don't load, GitHub's stats service is temporarily unavailable. Refresh after a few minutes.
 
+<!-- Alternative fallback if the original continues to fail -->
 <p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Shariif-Mohsoo&show_icons=true&theme=github_dark&hide_border=true&count_private=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shariif-Mohsoo&layout=compact&theme=github_dark&hide_border=true"/>
-
+  <img
+    height="170"
+    src="https://github-stats-extended.vercel.app/api?username=Shariif-Mohsoo&show_icons=true&theme=tokyonight&hide_border=true"
+    alt="GitHub Stats"
+  />
+  <img
+    height="170"
+    src="https://github-stats-extended.vercel.app/api/top-langs/?username=Shariif-Mohsoo&layout=compact&theme=tokyonight&hide_border=true"
+    alt="Top Languages"
+  />
 </p>
-
-<p align="center">
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Shariif-Mohsoo&theme=github-dark&hide_border=true"/>
-
-</p>
+<!-- <p align="center">
+  <img 
+    src="https://githubcard.com/Shariif-Mohsoo.svg" 
+    alt="GitHub Profile Card" 
+    width="450"
+  />
+</p> -->
 
 ---
 
