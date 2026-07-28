@@ -1,0 +1,57 @@
+name: Generate GitHub Profile Stats
+
+on:
+  schedule:
+    - cron: "0 3 * * *"    # Runs daily at 3:00 AM UTC
+  push:
+    branches: [main, master]
+  workflow_dispatch:         # Allows manual trigger
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Create assets directory
+        run: mkdir -p assets
+
+      # ─── GitHub Stats Card ──────────────────────────────────────────
+      - name: Generate GitHub Stats Card
+        run: |
+          curl -sL "https://github-readme-stats.vercel.app/api?username=Shariif-Mohsoo&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"             -o assets/github-stats.svg
+
+      # ─── Top Languages Card ─────────────────────────────────────────
+      - name: Generate Top Languages Card
+        run: |
+          curl -sL "https://github-readme-stats.vercel.app/api/top-langs/?username=Shariif-Mohsoo&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"             -o assets/top-langs.svg
+
+      # ─── GitHub Streak Stats ──────────────────────────────────────────
+      - name: Generate Streak Stats
+        run: |
+          curl -sL "https://streak-stats.demolab.com/?user=Shariif-Mohsoo&theme=tokyonight&hide_border=true"             -o assets/streak-stats.svg
+
+      # ─── GitHub Profile Trophy ────────────────────────────────────────
+      - name: Generate Profile Trophy
+        run: |
+          curl -sL "https://github-profile-trophy.vercel.app/?username=Shariif-Mohsoo&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=15"             -o assets/trophies.svg
+
+      # ─── Activity Graph ─────────────────────────────────────────────
+      - name: Generate Activity Graph
+        run: |
+          curl -sL "https://github-readme-activity-graph.vercel.app/graph?username=Shariif-Mohsoo&theme=tokyo-night&hide_border=true&area=true"             -o assets/activity-graph.svg
+
+      # ─── Commit & Push ──────────────────────────────────────────────
+      - name: Commit and Push
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add assets/
+          git diff --cached --quiet || git commit -m "🤖 Auto-update profile stats [skip ci]"
+          git push
