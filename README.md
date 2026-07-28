@@ -45,10 +45,10 @@
         <strong>Philosophy:</strong> <em>Transform complex problems into elegant software solutions. Build. Learn. Improve. Repeat.</em>
       </p>
     </td>
-    <td width="40%" align="center">
+    <!-- <td width="40%" align="center">
       <img src="./assets/top-langs.svg" alt="Top Languages" />
     </td>
-  </tr>
+  </tr> -->
 </table>
 <!-- Quick Stats / Facts -->
 <h2 align="center">⚡ Quick Facts</h2>
@@ -194,12 +194,12 @@
 </table>
 <!-- GitHub Analytics Section -->
 <h2 align="center">📊 GitHub Analytics</h2>
-<div align="center">
+<!-- <div align="center">
   <img src="./assets/trophies.svg" alt="GitHub Trophies" />
 </div>
-<br/>
+<br/> -->
 <div align="center">
-  <img height="180em" src="./assets/github-stats.svg" alt="GitHub Stats" />
+  <!-- <img height="180em" src="./assets/github-stats.svg" alt="GitHub Stats" /> -->
   <img height="180em" src="./assets/streak-stats.svg" alt="GitHub Streak" />
 </div>
 <br/>
