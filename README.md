@@ -1,6 +1,6 @@
 <div align="center">
 <!-- Animated Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3b82f6,100:8b5cf6&height=220&section=header&text=Muhammad%20Mohsin&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Software%20Engineer%20%7C%20React%20Native%20Developer%20%7C%20AI%20Engineer&descAlignY=55&descSize=18" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3b82f6,100:8b5cf6&height=220&section=header&text=Muhammad%20Mohsin&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Software%20Engineer%20%7C%20React%20Native%20Developer&descSize=18" />
 <!-- Dynamic Typing Effect -->
 <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=26&pause=1000&color=3B82F6&center=true&vCenter=true&width=900&lines=Building+Scalable+Web+Applications;Crafting+Cross-Platform+Mobile+Experiences;Engineering+AI-Powered+Solutions;MERN+Stack+%7C+PERN+Stack+%7C+React+Native;LangChain+%7C+RAG+%7C+LLMs+%7C+Computer+Vision" />
 <br/>
@@ -8,7 +8,7 @@
 <p>
   <img src="https://komarev.com/ghpvc/?username=Shariif-Mohsoo&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
   <img src="https://img.shields.io/badge/Status-Available%20for%20Hire-brightgreen?style=for-the-badge&logo=openai&logoColor=white" alt="Hire Status" />
-  <img src="https://img.shields.io/badge/Location-Pakistan%20%F0%9F%87%B5%F0%9F%87%B8-red?style=for-the-badge" alt="Location" />
+  <img src="https://img.shields.io/badge/Location-Pakistan-red?style=for-the-badge" alt="Location" />
   <img src="https://img.shields.io/badge/Focus-Full%20Stack%20%26%20AI-blueviolet?style=for-the-badge" alt="Focus" />
 </p>
 <!-- Social Connect Badges -->
@@ -236,7 +236,7 @@
   </table>
 </div>
 <!-- Currently Exploring Section -->
-<h2 align="center">🌱 Currently Exploring</h2>
+<!-- <h2 align="center">🌱 Currently Exploring</h2>
 <div align="center">
   <p>
     <img src="https://img.shields.io/badge/Distributed%20Systems-FF6B6B?style=for-the-badge" />
@@ -248,7 +248,7 @@
     <img src="https://img.shields.io/badge/Computer%20Vision-98D8C8?style=for-the-badge" />
     <img src="https://img.shields.io/badge/Backend%20Scalability-F7DC6F?style=for-the-badge" />
   </p>
-</div>
+</div> -->
 <!-- Connect Section -->
 <h2 align="center">🤝 Let's Connect & Collaborate</h2>
 <div align="center">
